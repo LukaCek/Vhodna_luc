@@ -3,4 +3,4 @@
 
 Več info na: https://cekluka.com/vhodna-luc
 
-BCB dizajn: https://oshwlab.com/tim.tlisat1111/reflektor-v2-tranzistor_copy
+PCB dizajn: https://oshwlab.com/tim.tlisat1111/reflektor-v2-tranzistor_copy
